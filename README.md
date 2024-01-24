@@ -28,4 +28,4 @@ To utilize the program, users must specify the desired search algorithm and prov
 
 **Example Command:**
 ```bash
-./solitaire_solver breadth input.txt
+./solitaire_solver breadth input.txt solution.txt
